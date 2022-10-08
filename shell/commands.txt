@@ -1,0 +1,72 @@
+ Basic Linux Commands
+1. man
+Help manual
+
+2. cd
+Changes a shell‘s current working directory
+
+3. cp
+Copies files
+
+4. find
+Searches files matching certain given criteria
+
+5. less
+Displays texts (such as manual pages) by page
+
+6. ln
+Lists file information or directory contents
+
+7. mkdir
+Creates new directories
+
+8. more
+Displays text data by page
+
+9. mv
+Moves files to different directories or renames them
+
+10. pwd
+Displays the name of the current working directory
+
+11. rmdir
+Removes (empty) directories
+
+12. adduser
+Add a new user
+
+13. awk
+Find and Replace text within file(s)
+
+14. chmod
+Change the access permissions of files and directories
+
+15. clear
+Clear terminal screen
+
+16. date
+Display or change the date & time
+
+17. kill
+Stop a process from running
+
+18. ls
+List information about file(s)
+
+19. mkdir
+Create new folder(s)
+
+20. break 
+Exit from a loop
+
+21. exit
+Exit the shell
+
+22. cat
+concatenate files and print on the standard output
+
+23. rm
+rm removes each specified file
+
+24. echo
+display a line of text
