@@ -47,9 +47,9 @@ int main()
             initial=rs[i];
 	    printf("%d\t",rs[i]);
         }
-        seek=seek+abs(size-rs[i-1]-1);
-        initial = size-1;
-        for(i=index-1;i>=0;i--)
+        seek=seek+abs(size-rs[i-1]-1); //seek=seek+abs(size-1-0);
+        initial = size-1;               //initial=0;
+        for(i=index-1;i>=0;i--)        // for( i=0;i<index;i++)
         {
              seek=seek+abs(rs[i]-initial);
              initial=rs[i];
